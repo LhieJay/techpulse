@@ -1,0 +1,10 @@
+{
+  "name": "techpulse-innovations",
+  "version": "1.0.0",
+  "description": "TechPulse Innovations website with accounts, admin dashboard, messages, projects and file uploads (no dependencies).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "UNLICENSED",
+  "private": true
+}
